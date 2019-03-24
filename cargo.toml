@@ -5,3 +5,4 @@ authors = ["Your Name <you@example.com>"]
 
 [dependencies]
 walkdir = "2"
+glob = "0"
